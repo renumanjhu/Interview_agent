@@ -1,5 +1,4 @@
 # Interview_agent
-Open-source AI agent which can handle voice calls and respond back in real-time. Can be used for many use-cases such as sales calls, customer support etc.
 
 ### Requirements
 
