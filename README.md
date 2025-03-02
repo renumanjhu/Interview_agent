@@ -1,5 +1,5 @@
 # Interview_agent
-
+So I buit agent that can take initial screening test of candidates . It would ask relevant questions and can also mannipulate them in accordance with the candidates answers.
 ### Requirements
 
 Python 3.11
