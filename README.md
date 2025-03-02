@@ -1,1 +1,25 @@
 # Interview_agent
+Open-source AI agent which can handle voice calls and respond back in real-time. Can be used for many use-cases such as sales calls, customer support etc.
+
+### Requirements
+
+Python 3.11
+
+Deepgram and Gemini
+
+### Steps to run
+
+Open .env file and setup Deepgram and Gemini key
+
+Create a virtualenv and install depends from requirements.txt using below command
+
+pip install -r requirements.txt
+
+pip install google-generativeai
+
+if error of no module named requests come, then give command 
+pip install requests
+
+Run the app using below command
+
+python app.py
